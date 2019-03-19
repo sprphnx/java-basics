@@ -1,7 +1,7 @@
 package com.sprphnx.javabasics.puzzles;
 
 /*
- * Find the longest sequence in of number in a given array.
+ * Find the longest sequence of number in a given array.
  */
 
 public class LongestSequence {
